@@ -1,8 +1,8 @@
-# Grignani Op Art
+# Interactive Op Art
 
 An interactive WebGL experience inspired by Franco Grignani's optical distortions and M.C. Escher's impossible tessellations, built with GPU shaders and real-time parameter control.
 
-**[Live Demo](https://lucalangella.github.io/grignani-opart/)**
+**[Live Demo](https://lucalangella.github.io/interactive-opart/)**
 
 ## About
 
