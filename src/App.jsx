@@ -64,7 +64,7 @@ function Controls({ params, setParams }) {
         display: 'flex', justifyContent: 'space-between',
         alignItems: 'center', marginBottom: 10,
       }}>
-        <span style={{ fontWeight: 'bold', fontSize: 13 }}>Grignani Controls</span>
+        <span style={{ fontWeight: 'bold', fontSize: 13 }}>Op Art Controls</span>
         <div>
           <button
             onClick={() => setParams({ ...DEFAULTS })}
