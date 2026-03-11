@@ -2,7 +2,7 @@
 
 An interactive WebGL experience that recreates the optical illusions of Franco Grignani through GPU shaders and real-time parameter control.
 
-**[Live Demo](https://lucalangella1.github.io/grignani-opart/)**
+**[Live Demo](https://lucalangella.github.io/grignani-opart/)**
 
 ## About
 
